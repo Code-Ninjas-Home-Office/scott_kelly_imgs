@@ -1,6 +1,7 @@
 {
     "name": "scott_kelly_imgs",
     "description": "",
+    "assetPack": true,
     "dependencies": {
         "device": "*"
     },
